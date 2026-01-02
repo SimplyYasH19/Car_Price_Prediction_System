@@ -3,6 +3,10 @@
 This project is a machine learning–based web system that predicts the selling price of a used car based on user-provided details such as year, kilometers driven, fuel type, transmission, and ownership history. 
 The application runs locally on a laptop and provides real-time predictions through a web interface.
 
+## Application Preview
+    1. ![Car Price Prediction App](assets/car_prediction_1.png)
+
+    2. ![Prediction Result Example](assets/car_prediction_2.png)
 
 ## Project Overview
 
@@ -10,11 +14,11 @@ The goal of this project is to demonstrate an end-to-end machine learning
 workflow, starting from dataset selection and preprocessing to model training
 and real-time inference using a web-based UI.
 
-The focus is on:
+The fo
+cus is on:
 - Applying Python, Pandas, and NumPy for data handling
 - Training a regression model using real-world data
 - Converting a console-based ML workflow into a usable web application
-
 
 ## Features
 
@@ -57,3 +61,4 @@ Based on these inputs, the model predicts the estimated selling price.
 - A regression model is trained using scikit-learn
 - The trained model is saved and reused for real-time predictions
 - This version uses a baseline linear regression model and a limited feature set
+
