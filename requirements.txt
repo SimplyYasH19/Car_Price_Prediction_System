@@ -1,0 +1,4 @@
+pandas    # dataset handling
+numpy        # numerical arrays to model
+scikit-learn   # regression model
+streamlit      #  replaces input() with web UI
